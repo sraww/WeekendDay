@@ -1,0 +1,14 @@
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.AssemblyInfoInputs.cache
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.AssemblyInfo.cs
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.csproj.CoreCompileInputs.cache
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\bin\Debug\net6.0\WeekendDay.exe
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\bin\Debug\net6.0\WeekendDay.deps.json
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\bin\Debug\net6.0\WeekendDay.runtimeconfig.json
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\bin\Debug\net6.0\WeekendDay.dll
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\bin\Debug\net6.0\WeekendDay.pdb
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.dll
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\refint\WeekendDay.dll
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.pdb
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\WeekendDay.genruntimeconfig.cache
+D:\Программы\Программирование\Visual studio projects\WeekendDay\WeekendDay\obj\Debug\net6.0\ref\WeekendDay.dll
