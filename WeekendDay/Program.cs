@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
 namespace PracticTask1
 {
     class Program
@@ -18,7 +17,6 @@ namespace PracticTask1
                 ["Павлов Павел Павлович"] = new List<DateTime>(),
                 ["Георгиев Георг Георгиевич"] = new List<DateTime>()
             };
-
             var AviableWorkingDaysOfWeekWithoutWeekends = new List<string>() { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
             // Список отпусков сотрудников
             List<DateTime> Vacations = new List<DateTime>();
@@ -56,13 +54,11 @@ namespace PracticTask1
                             endDate = startDate.AddDays(14);
                             difference = 14;
                         }
-
                         if (vacationCount <= 7)
                         {
                             endDate = startDate.AddDays(7);
                             difference = 7;
                         }
-
                         // Проверка условий по отпуску
                         bool CanCreateVacation = false;
                         bool existStart = false;
@@ -77,7 +73,6 @@ namespace PracticTask1
                                     CanCreateVacation = true;
                             }
                         }
-
                         if (CanCreateVacation)
                         {
                             for (DateTime dt = startDate; dt < endDate; dt = dt.AddDays(1))
