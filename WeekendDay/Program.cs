@@ -56,7 +56,7 @@ namespace PracticTask1
                         if (vacationCount <= 7)
                         {
                             endDate = startDate.AddDays(7);
-                            difference = 6;
+                            difference = 7;
                         }
                         // Проверка условий по отпуску
                         bool CanCreateVacation = false;
