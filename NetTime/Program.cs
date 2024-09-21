@@ -26,7 +26,3 @@ class NEtTime
   return false;
 }
 }
-
-
-
-}
