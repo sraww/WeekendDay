@@ -10,6 +10,22 @@ class NEtTime
 
 
 
+  while (i< m && j>=0) 
+  {
+ if (matrix[i][j] == k) {
+    return = true;
+ }
+     if (matrix[i][j] > k) {
+    j--;
+     }
+       else;
+    {
+    i++;
+    }
+  }
+  return false;
+}
+}
 
 
 
