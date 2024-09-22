@@ -4,7 +4,7 @@ class NetTime
     if (matrix == null || matrix.length == 0 || matrix[0].length == 0){
     }
 } 
-  int[,] array = new int[4, 2]; // 4 строки, 2 столбца
+  int[,] array = new int[4, 3]; // 4 строки, 2 столбца
 for (int i=1; i <= N, i++) { 
     for (int j=1; j <= N, j++) { 
         Console.Write(A[i, j] + " ");
