@@ -98,6 +98,3 @@ namespace PracticTask1
 }
 
 
-
-
-
